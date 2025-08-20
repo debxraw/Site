@@ -5,7 +5,6 @@ Este projeto é um ambiente de experimentação com HTML, CSS e JavaScript. Idea
  🛠️ Tecnologias utilizadas
 
 - HTML5
-- CSS3
 - GitHub Pages para hospedagem gratuita
 
 ## 📚 Objetivo
